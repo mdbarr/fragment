@@ -1,0 +1,14 @@
+{
+  "name": "fragment",
+  "version": "0.0.1",
+  "description": "404: Fragment Not Found - js13k game entry 2020",
+  "main": "index.html",
+  "repository": "git@github.com:mdbarr/fragment.git",
+  "author": "Mark Barr <mark@hyperingenuity.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "http-server": "^0.12.3"
+  }
+}
